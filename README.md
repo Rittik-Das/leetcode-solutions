@@ -16,3 +16,5 @@ The repository also functions as a personal **progress tracker**, allowing me to
 - This repository represents a learning journey; solutions may evolve with better approaches and optimizations over time.
 - Each problem is implemented in a separate file, named using the LeetCode problem number and title. 
 - It can serve as a reference for **revision** and tracking my **DSA progress over time**.
+- Header files and `main()` function are intentionally omitted in the solution files to match LeetCode submission format.  
+- Each file contains only the `class Solution` and necessary logic.
