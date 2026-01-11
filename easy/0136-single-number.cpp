@@ -1,6 +1,6 @@
 // Problem: Single Number
 // Difficulty: Easy
-// Topic: Array, Bit Manipulation
+// Topic: Array
 // LeetCode URL: https://leetcode.com/problems/single-number/
 
 // Approach:
