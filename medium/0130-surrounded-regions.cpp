@@ -32,7 +32,7 @@ public:
 
     void solve(vector<vector<char>>& board) {
 
-        //  m is no of rows and n is no of columns
+        //  m is number of rows and n is number of columns
         int m = board.size();
         int n = board[0].size();
 
